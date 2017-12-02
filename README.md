@@ -2,8 +2,7 @@
 
 You want to give a talk at one of our PHP USERGROUP DRESDEN Meetups?
 
-<a href="https://github.com/php-usergroup-dresden/talks/issues" style="border: 1px solid #4cae4c; border-radius: 3px; background-color: #5cb85c; color: #ffffff; font-weight: bold; padding: 3px 10px;">
-&raquo; Just open a new issue and add your proposal.</a>
+**[&raquo; Just open a new issue and add your proposal.](https://github.com/php-usergroup-dresden/talks/issues)**
 
 We will get in touch with you.
 
