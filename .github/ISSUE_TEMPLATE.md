@@ -11,6 +11,14 @@
 - [ ] German
 - [ ] English
 
+## Talk preparation
+
+Do you need support on preparing your talk by e.g. a practice session or a review of your slides? 
+We are happy to help!
+
+- [ ] Yes, ...
+- [ ] No, thanks.
+
 ## Preferred date/time
 
 - 
