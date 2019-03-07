@@ -29,9 +29,12 @@ We are happy to help!
 - Your full name here
 
 ## Speakers info
-(Optional, your company, your position, etc.)
+(Optional, your company, your position, short BIO, etc.)
 
-- 
+- ...
+
+## Speaker image
+(Optional, link to an image or attach it as a file to the issue)
 
 ## Twitter handle(s)
 (Optional, we usually announce speakers via https://twitter.com/phpugdd)
