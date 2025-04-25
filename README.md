@@ -2,7 +2,7 @@
 
 You want to give a talk at one of our PHP USERGROUP DRESDEN Meetups?
 
-**[&raquo; Just open a new issue and add your proposal.](https://github.com/php-usergroup-dresden/talks/issues/new)**
+**[&raquo; Just open a new issue and add your proposal.](https://github.com/php-usergroup-dresden/talks/issues/new?template=talk-proposal.md)**
 
 We will get in touch with you.
 
