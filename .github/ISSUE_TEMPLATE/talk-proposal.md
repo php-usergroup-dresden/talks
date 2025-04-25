@@ -1,7 +1,7 @@
 ---
 name: Talk proposal
 about: You want to propose a lightning or main talk for our meetup? This is for you!
-title: "[TALK]"
+title: "[TALK]: "
 labels: talk-proposal
 assignees: ''
 
